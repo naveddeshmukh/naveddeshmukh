@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Naved.
 
-- 🔭 I'm a Software Developer at @astrumlabs
+- 🔭 I'm a Software Developer at [@astrumlabs](https://github.com/astrumlabs)
 
-- 📫 How to reach me: Twitter @naveddeshmukh
+- 📫 How to reach me: Twitter [@naveddeshmukh](https://twitter.com/naveddeshmukh)
+
