@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Twitter [@naveddeshmukh](https://twitter.com/naveddeshmukh)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/64df0c62ced78d29352414bd?variant=dark)](https://roadmap.sh)
