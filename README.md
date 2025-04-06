@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Naved.
 
-- 🔭 I'm a Software Developer at [@astrumlabs](https://github.com/astrumlabs)
+- 🔭 I'm a R&D Head and Solutions Architect at [Softlink Global](https://softlinkglobal.com/)
 
 - 📫 How to reach me: Twitter [@naveddeshmukh](https://twitter.com/naveddeshmukh)
 
